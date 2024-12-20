@@ -1,3 +1,9 @@
+.logo {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px; /* Центрирование логотипа */
+}
 /* Общие стили */
 * {
     margin: 0;
